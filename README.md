@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 My first change on master
+My second change on master
 
 ## Purpose
 
